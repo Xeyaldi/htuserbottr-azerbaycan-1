@@ -24,11 +24,11 @@ import builtins
 from pyrogram.enums import ParseMode
 
 # Heroku üçün olan os.environ hissəsini sildim, birbaşa məlumatlarını yazdım.
-API_ID = 
-API_HASH = 
-SESSION = 
-BOT_TOKEN =
-MONGO_URL = 
+API_ID = 34628590
+API_HASH = "78a65ef180771575a50fcd350f027e9d"
+SESSION = "AgIQY-4AllV6xu6eiL_Yk9wVU5rUIMwcMmY_4-yytN343rfnEsOMLvgYMbmQ_i-125kbq0scXVZ2mbYmjQIQf09WKKXuyLkZjXpBN6Ly-agw-l0JwDqkaL6LlXnCRYMfkOgQ63y657-zu4wmRYH0lNlG8fd8MAB5qygn1vwDSIf3rU6EjEquv9oiIOW_Zqo6ZNnFbk8Sj56UbA3_P6v-h3jkwxE1K8YZwGuZg4ol9ina2jO3li8txoIYPdXBuyKelSq-17cFpQB2mRP2wsckhBsPT6FjhWdkRRtNA5clPD71isENIIvxdQYV7rw2Xn1D6nZ5Qn8zRu66yQKcjKQTs1aRt6yOaAAAAAHy-VoLAA"
+BOT_TOKEN = "8458270058:AAGCPzKIQrr9k3NKtzAdwUXbRxkLHtCEtJg"
+MONGO_URL = "mongodb+srv://cabbarovxeyal32_db_user:Xeyal032aze@cluster0.f3gogmg.mongodb.net/?appName=Cluster0"
 
 HELP_IMG = "https://files.catbox.moe/34xlvu.jpg" 
 KANAL_URL = "https://t.me/ht_bots"
